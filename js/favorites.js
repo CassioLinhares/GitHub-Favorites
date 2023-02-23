@@ -43,7 +43,7 @@ export class Favorites {
     //THROW = lança o erro p/ o catch
     async add(username){
         try {
-            const userExists = this.entriesData.find(entry => entry.login == username)
+            const userExists = this.entriesData.find(entry => entry.login === username)
 
             if (userExists) {
                 throw new Error('Usuário já cadastrado!')
