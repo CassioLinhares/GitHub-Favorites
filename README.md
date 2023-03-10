@@ -20,12 +20,9 @@
 - Async functions;  
 - Método static
 
-<h3>
-🧪 Tecnologias |  HTML , CSS, JavaScript 
-</h3> 
+### 🧪 Tecnologias |  HTML , CSS, JavaScript 
 
-</p>
-<img  src="https://i.imgur.com/TrRnX6v.png"  alt="">
+![App Screenshot](https://i.imgur.com/iTVDTyX.png)
 
 ### Informações
 📅 **01.03.2023**
