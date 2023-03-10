@@ -25,10 +25,9 @@
 ![App Screenshot](https://i.imgur.com/iTVDTyX.png)
 
 ### Informações
-📅 **01.03.2023**
+📅 **25.02.2023**
 
 🕛 **Status:** Concluído ✔
 
-🌎 **Result Preview: https://github-favorites-one.vercel.app/ .**
+🌎 **Result Preview: https://git-hub-favorites.vercel.app/.**
 
-☑️ **Task:** Desenvolver uma aplicação com várias funcionalidades, [Figma](https://www.figma.com/file/iCey0u5VLRrX55A4MjuilI/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?node-id=104%3A48).
